@@ -1,6 +1,0 @@
-framework module PodPro {
-  umbrella header "PodPro-umbrella.h"
-
-  export *
-  module * { export * }
-}
